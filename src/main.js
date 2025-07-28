@@ -246,7 +246,7 @@
             <a href="#products" class="nav-link" data-page="home">Produtos</a>
             <a href="#features" class="nav-link" data-page="home">Recursos</a>
             <a href="#instructions" class="nav-link" data-page="instructions">Instruções</a>
-            <a href="https://discord.gg/hypex" class="discord-btn">Discord</a>
+            <a href="https://discord.gg/hypexstore" class="discord-btn">Discord</a>
           </nav>
           <button class="mobile-menu-toggle">☰</button>
         </div>
@@ -359,7 +359,7 @@
           <div class="product-prices">
             ${pricesHTML}
           </div>
-          <a href="https://discord.gg/hypex" class="product-cta">Comprar Agora</a>
+          <a href="https://discord.gg/hypexstore" class="product-cta">Comprar Agora</a>
         </div>
       `;
       
@@ -437,7 +437,7 @@
               <li><a href="#spoofing" class="sidebar-link">Spoofando o PC</a></li>
             </ul>
             <div class="community-feedback">
-              <a href="https://discord.gg/hypex">Community Feedback</a>
+              <a href="https://discord.gg/hypexstore">Community Feedback</a>
             </div>
           </aside>
           
@@ -513,7 +513,7 @@
               </h3>
               <div class="coming-soon">
                 <p>Instruções detalhadas disponíveis após a compra do produto.</p>
-                <a href="https://discord.gg/hypex" class="instruction-cta">Adquirir Spoofer</a>
+                <a href="https://discord.gg/hypexstore" class="instruction-cta">Adquirir Spoofer</a>
               </div>
             </div>
             
@@ -546,7 +546,7 @@
             <a href="#products" class="footer-link">Produtos</a>
             <a href="#features" class="footer-link">Recursos</a>
             <a href="#instructions" class="footer-link">Instruções</a>
-            <a href="https://discord.gg/hypex" class="footer-link">Discord</a>
+            <a href="https://discord.gg/hypexstore" class="footer-link">Discord</a>
           </div>
           <div class="copyright">
             © 2025 HYPEX Store. Todos os direitos reservados.
